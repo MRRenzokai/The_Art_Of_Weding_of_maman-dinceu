@@ -14,12 +14,12 @@ const DEFAULT_COMMENTS = [
     {
         name: "Budi Santoso",
         message: "Selamat berbahagia Andi & Siti! Semoga menjadi keluarga sakinah, mawaddah, warahmah.",
-        date: "12 Desember 2026"
+        date: "21 Desember 2026"
     },
     {
         name: "Rina & Keluarga",
         message: "Barakallahlakuma wa baraka 'alaikuma wa jama' bainakuma fi khair. Lancar sampai hari H!",
-        date: "11 Desember 2026"
+        date: "20 Desember 2026"
     }
 ];
 
