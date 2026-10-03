@@ -13,7 +13,7 @@ const COMMENTS_KEY = "wedding_comments";
 const DEFAULT_COMMENTS = [
     {
         name: "Budi Santoso",
-        message: "Selamat berbahagia Andi & Siti! Semoga menjadi keluarga sakinah, mawaddah, warahmah.",
+        message: "Selamat berbahagia Maman & Dinceu! Semoga menjadi keluarga sakinah, mawaddah, warahmah.",
         date: "21 November 2026"
     },
     {
