@@ -1,30 +1,47 @@
-# Modern Elegant Wedding Template
+# 💍 The Wedding of Maman Abdul Rahman & Dinceu Kamelia
 
-Template undangan pernikahan digital yang modern, elegan, ringan, responsif, dan berbasis *Static HTML/CSS/JS*. Template ini dirancang *reusable* sehingga mudah digunakan untuk banyak klien tanpa mengubah struktur kode utama.
+Website undangan digital pernikahan modern dan elegan yang dibuat khusus untuk merayakan hari spesial pernikahan **Maman Abdul Rahman** & **Dinceu Kamelia** pada **22 November 2026**.
 
-## Struktur Folder
-- `index.html` : Halaman utama undangan
-- `data/wedding.js` : File konfigurasi data (Nama, Tanggal, Lokasi, Galeri, dll)
-- `css/` : Styleheet modular (`style.css`, `responsive.css`)
-- `js/` : Logic modular (`main.js`, `countdown.js`, `gallery.js`, `music.js`)
-- `assets/` : Gambar placeholder & audio background
+---
 
-## Cara Menjalankan Lokal
-1. Pastikan Anda memiliki browser modern (Chrome, Safari, Firefox, Edge).
-2. Clone atau unduh repository ini.
-3. Buka file `index.html` langsung di browser Anda, atau gunakan extension **Live Server** di VS Code.
+## ✨ Fitur Utama
+* **Cover & Animasi Pembuka:** Sambutan interaktif sebelum tamu masuk ke halaman utama undangan.
+* **Informasi Acara (Akad & Resepsi):** Detail waktu, tanggal, dan lokasi lengkap dengan fitur penunjuk arah (Google Maps).
+* **Hitung Mundur (Countdown):** Live countdown timer menuju hari H pernikahan.
+* **Love Story / Perjalanan Cinta:** Bagian khusus untuk menceritakan kisah perjalanan kasih mempelai.
+* **Galeri Foto:** Menampilkan momen-momen kebersamaan pre-wedding / foto pasangan.
+* **RSVP & Ucapan (Guest Book):** Fitur bagi tamu undangan untuk mengirimkan ucapan, doa, serta konfirmasi kehadiran.
+* **Background Music:** Musik latar romantis yang bisa di-play/pause oleh tamu.
 
-## Cara Mengganti Data Klien
-Buka file `data/wedding.js`. Anda cukup mengubah nilai variabel objek `weddingData` sesuai dengan data klien baru (nama mempelai, tanggal akad, daftar galeri, nomor rekening, dll). Anda tidak perlu menyentuh file HTML sama sekali.
+---
 
-## Cara Personalisasi Nama Tamu (URL Parameter)
-Anda dapat membagikan link undangan dengan menyertakan parameter nama tamu di URL:
-`https://username.github.io/repository-name/?to=Nama+Tamu+Undangan`
+## 🚀 Jasa Pembuatan Undangan Digital (Open Order)
+Tertarik bikin website undangan digital keren kayak gini buat acara pernikahan kamu, keluarga, atau mau buka jasa pembuatan undangan? 
 
-## Cara Deploy ke GitHub Pages (Gratis)
-1. Buat repository baru di [GitHub](https://github.com/).
-2. Upload seluruh file project ini ke branch `main` repository tersebut.
-3. Masuk ke menu **Settings** pada repository GitHub Anda.
-4. Pilih tab **Pages** di sidebar kiri.
-5. Pada bagian **Build and deployment**, pilih Source: **Deploy from a branch**, lalu pilih branch `main` (`/root`).
-6. Klik **Save** dan tunggu beberapa saat. URL live website Anda akan otomatis tersedia di halaman tersebut.
+Kami menyediakan layanan pembuatan undangan digital website dengan keunggulan:
+* **Desain Eksklusif & Elegan:** Bisa menyesuaikan tema atau warna keinginan kamu.
+* **Fitur Lengkap:** RSVP, hitung mundur, peta lokasi, galeri foto, hingga buku tamu digital tanpa batas.
+* **Mobile Friendly:** Tampil sangat rapi dan mulus diakses lewat HP maupun komputer.
+* **Proses Cepat & Harga Terjangkau.**
+
+📩 **Minat / Order / Tanya-tanya?**
+* WhatsApp: [Hubungi Kami di WhatsApp](https://wa.me/65xxxxxxxxxx) *(Ganti dengan nomor WhatsApp kamu)*
+* Instagram: [@username_kamu](https://instagram.com/username_kamu)
+* Email: emailkamu@gmail.com
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+* **HTML5 & CSS3** (Custom Styling & Flexbox Layout)
+* **JavaScript** (Interaktivitas, Countdown, & Dynamic Data)
+* **Font Awesome / Icons**
+* **Hosted on GitHub Pages**
+
+---
+
+## 🚀 Cara Menjalankan Project (Lokal)
+Jika kamu ingin mencoba atau mengedit project ini secara lokal di komputer kamu:
+
+1. Clone repository ini:
+   ```bash
+   git clone [https://github.com/MRRenzokai/The_Art_Of_Weding_Dinceu_-_Maman.git](https://github.com/MRRenzokai/The_Art_Of_Weding_Dinceu_-_Maman.git)
