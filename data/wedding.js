@@ -122,7 +122,7 @@ const weddingData = {
         }
     ],
     giftAddress: {
-        recipient: "Maman Abdul Rahman & Dinceu Kamelia",
+        recipient: "Maman Abdul Rahman",
         address: " Dsn.Calingcing Rt/Rw 20/09,Desa Karangpaningal,Kec. Panawangan,Kab. Ciamis"
     }
     
