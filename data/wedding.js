@@ -9,7 +9,7 @@ const weddingData = {
     // Mempelai Pria
     groom: {
         name: "Maman Abdul Rahman",
-        nickname: "Maman Abdul Rahmanan",
+        nickname: "Maman Abdul Rahman",
         father: "Bapak Yayan Hendriana",
         mother: "Ibu Oom",
         photo: "assets/images/gallery/mamanpas.jpeg",
